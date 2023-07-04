@@ -53,3 +53,4 @@ bash start.sh
 (In case it doesnt work you need to start app.py and homepage.html in Pages directory)
 Hassle free!Enjoy TuneTools!
 You can start app.py using the command python3 app.py and homepage.html is in Pages directory..
+sanchit
